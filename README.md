@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Anaswara K U</h1>
-<h3 align="center">AI/ML postgraduate student</h3>
 
 - 📫 How to reach me **anaswaraku17@gmail.com**
 
